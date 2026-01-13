@@ -98,7 +98,7 @@ I’m always open to new opportunities and challenges.
 ## 🔗 Connect With Me <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Handshake.gif" height="32px">
 
 [![Gmail](https://img.shields.io/badge/shamimuhammad77@gmail.com-d14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shamimuhammad77@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com)
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muhammad-ahtisham-6116ba2b2/)
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://api.whatsapp.com/send?phone=923205999041)
 
 ---

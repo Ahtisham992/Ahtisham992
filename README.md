@@ -11,7 +11,7 @@
 
 ---
 
-## 🟢 Open to full-time roles — onsite, hybrid, or remote · Available June 2026
+## 🟢 Open to full-time roles — onsite, hybrid, or remote ·
 
 ---
 

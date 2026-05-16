@@ -150,7 +150,7 @@ undo/redo, layer management, keyboard shortcuts, and zoom controls.
 ## 💼 Experience
 
 **Software Engineer (Part-time, Remote)**
-Turing Intelligence · Prague, Czechia · *May 2025 – Present*
+Turing Intelligence · Prague, Czechia · *jan 2026 – Present*
 > Prague-based AI and simulation research lab — computer algorithms,
 > mathematical modelling, deep learning.
 - Builds web and mobile features on a task-basis using MERN stack and

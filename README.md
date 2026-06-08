@@ -2,7 +2,7 @@
 
 # 👨‍💻 Muhammad Ahtisham
 
-**Full Stack Developer · AI/ML Engineer · Final Year @ FAST-NUCES Islamabad**
+**Full Stack Developer · Software Engineer · BS Software Engineering @ FAST-NUCES Islamabad**
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-ahtisham--dev.site-6d28d9?style=for-the-badge&logo=vercel&logoColor=white)](https://ahtisham-dev.site)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muhammad-ahtisham-6116ba2b2/)
@@ -17,16 +17,21 @@
 
 ## About Me
 
-Final-year BS Software Engineering student at FAST-NUCES Islamabad
-(graduating 2026) building production-ready software across the full
-stack. I've shipped an enterprise ERP system with 50+ REST APIs, an
-AI-powered podcast platform using Whisper and transformer NLP (FYP
-Grade A), and a posture assessment AI agent deployed on Hugging Face.
+Software Engineer with experience building full-stack applications,
+including backend APIs, relational databases, frontend interfaces,
+and cloud-based deployments. Strong understanding of core software
+engineering principles such as system design, data modeling, API
+design, and problem solving. Built projects including an EMS system,
+a real-time application, and AI-integrated solutions. Comfortable
+working across the stack and adapting to different parts of the 
+development process as needed. 
 
 Currently contributing part-time as a remote Software Engineer at
-**Turing Intelligence** (Prague) — an AI and simulation research lab
-specialising in computer algorithms, mathematical modelling, and deep
-learning.
+**Turing Intelligence** (Prague) — Designed and built a production
+Discrete-Event Simulation platform end-to-end - system architecture,
+TypeScript/Node.js backend, PostgreSQL schema, 20+ REST endpoints 
+with JWT auth and RBAC, and a React dashboard with real-time 
+WebSocket KPI streaming. 
 
 I work across full-stack web (MERN), cross-platform mobile (React
 Native), applied AI/ML, and cloud deployment (AWS). I care about clean

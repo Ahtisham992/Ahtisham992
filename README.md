@@ -17,7 +17,7 @@
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2800&pause=900&color=8B5CF6&center=true&vCenter=true&width=780&lines=Full-Stack+Software+Engineer;Building+Web+%2B+Mobile+%2B+AI-powered+Products;MERN+·+React+Native+·+FastAPI+·+AWS;Currently+shipping+at+Turing+Intelligence+(Prague)" alt="typing-svg" />
+<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&amp;weight=600&amp;size=22&amp;duration=2800&amp;pause=900&amp;color=8B5CF6&amp;center=true&amp;vCenter=true&amp;width=780&amp;lines=Full-Stack+Software+Engineer;Building+Web+%2B+Mobile+%2B+AI-powered+Products;MERN+%C2%B7+React+Native+%C2%B7+FastAPI+%C2%B7+AWS;Currently+shipping+at+Turing+Intelligence+%28Prague%29" alt="typing-svg" />
 
 <br/>
 

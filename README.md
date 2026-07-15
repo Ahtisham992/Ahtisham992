@@ -86,17 +86,17 @@ streaming real-time KPIs over WebSockets.
 </div>
 
 <details>
-<summary><b>📊 Proficiency breakdown (click to expand)</b></summary>
+<summary><b>📋 Full skills breakdown (click to expand)</b></summary>
 <br/>
 
 | Frontend | Backend | Databases | Cloud/DevOps | AI/Integration |
 |---|---|---|---|---|
-| React.js — 88% | Node.js — 90% | PostgreSQL — 88% | Docker — 85% | LLM APIs (OpenAI/Gemini) — 88% |
-| Next.js 15 — 85% | Express.js — 88% | MongoDB — 85% | Git — 90% | Python — 85% |
-| HTML/CSS/JS — 95% | REST API Design — 90% | Prisma ORM — 85% | AWS (EC2/S3/RDS) — 82% | Whisper ASR — 80% |
-| Tailwind CSS — 90% | NestJS — 80% | MySQL — 80% | CI/CD — 80% | OpenCV — 80% |
-| React Native — 80% | WebSockets/Socket.io — 80% | Redis — 78% | Kubernetes — 75% | HF Transformers — 78% |
-| Redux Toolkit — 80% | System Design — 82% | SQLAlchemy — 75% | GCP Cloud Run — 78% | Ollama (Local LLMs) — 78% |
+| React.js | Node.js | PostgreSQL | Docker | LLM APIs (OpenAI/Gemini) |
+| Next.js 15 | Express.js | MongoDB | Git | Python |
+| HTML/CSS/JS (ES6+) | REST API Design | Prisma ORM | AWS (EC2/S3/RDS) | Whisper ASR |
+| Tailwind CSS | NestJS | MySQL | CI/CD Pipelines | OpenCV |
+| React Native | WebSockets / Socket.io | Redis | Kubernetes | Hugging Face Transformers |
+| Redux Toolkit | System Design | SQLAlchemy | GCP Cloud Run | Ollama (Local LLMs) |
 
 </details>
 

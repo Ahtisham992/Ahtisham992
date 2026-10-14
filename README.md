@@ -17,7 +17,7 @@
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&amp;weight=600&amp;size=22&amp;duration=2800&amp;pause=900&amp;color=8B5CF6&amp;center=true&amp;vCenter=true&amp;width=780&amp;lines=Full-Stack+Software+Engineer;Building+Web+%2B+Mobile+%2B+AI-powered+Products;MERN+%C2%B7+React+Native+%C2%B7+FastAPI+%C2%B7+AWS;Currently+shipping+at+Turing+Intelligence+%28Prague%29" alt="typing-svg" />
+<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&amp;weight=600&amp;size=22&amp;duration=2800&amp;pause=900&amp;color=8B5CF6&amp;center=true&amp;vCenter=true&amp;width=780&amp;lines=Full-Stack+Software+Engineer;Building+Web+%2B+Mobile+%2B+AI-powered+Products;MERN+%C2%B7+React+Native+%C2%B7+FastAPI+%C2%B7+AWS" alt="typing-svg" />
 
 <br/>
 
@@ -29,16 +29,15 @@
 
 ---
 
-### 👋 About Me
+###  About Me
 
 ```txt
 const engineer = {
   role: "Software Engineer · Full Stack Developer",
   location: "Islamabad / Rawalpindi, Pakistan",
   education: "BS Software Engineering @ FAST-NUCES Islamabad (2022 – 2026)",
-  currentlyBuilding: "Distributed-system simulation platform @ Turing Intelligence, Prague",
-  focus: ["Full-Stack Web (MERN)", "React Native", "Applied AI/ML", "Cloud (AWS/GCP)"],
-  availability: "Open to full-time roles — onsite · hybrid · remote (from June 2026)"
+  focus: ["Full-Stack Web", "Mobile App", "Applied AI/ML", "Cloud (AWS/GCP)"],
+  availability: "Open to full-time roles — onsite · hybrid · remote"
 };
 ```
 
@@ -48,14 +47,9 @@ simulation engine**, an **AI podcast summarizer**, a **RAG-powered developer wor
 a full **enterprise ERP system** with 50+ endpoints. I care about clean architecture and
 shipping things that actually work in production.
 
-**Currently @ [Turing Intelligence](https://github.com/Ahtisham992)** (Prague, remote, part-time) — designing and building a production
-Discrete-Event Simulation platform end-to-end: system architecture, TypeScript/Node.js
-backend, PostgreSQL schema, 20+ REST endpoints with JWT auth & RBAC, and a React dashboard
-streaming real-time KPIs over WebSockets.
-
 ---
 
-### 🛠️ Tech Stack
+###  Tech Stack
 
 <div align="center">
 
@@ -86,7 +80,7 @@ streaming real-time KPIs over WebSockets.
 </div>
 
 <details>
-<summary><b>📋 Full skills breakdown (click to expand)</b></summary>
+<summary><b> Full skills breakdown (click to expand)</b></summary>
 <br/>
 
 | Frontend | Backend | Databases | Cloud/DevOps | AI/Integration |
@@ -102,13 +96,13 @@ streaming real-time KPIs over WebSockets.
 
 ---
 
-### 🚀 Featured Projects
+###  Featured Projects
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-**🧠 [Prismora AI](https://github.com/Ahtisham992) — Smart Podcast Summarization**
+** [Prismora AI](https://github.com/Ahtisham992) — Smart Podcast Summarization**
 *FYP · Grade A*
 
 Whisper-powered speech-to-text → BERT abstractive summarization →
@@ -120,7 +114,7 @@ Native mobile app with personalized feeds.
 </td>
 <td width="50%" valign="top">
 
-**⚙️ Turing Intelligence — DES Simulation Engine**
+**⚙️ DES Simulation Engine**
 *Production system, 2026*
 
 Discrete-event simulation platform (M/G/c queue model) with a
@@ -191,18 +185,18 @@ quizzes — with a caching layer tuned for **80k+ calls per $1**.
 
 ---
 
-### 💼 Experience
+###  Experience
 
 ```
 2026 ─┬─ Software Engineer (Part-time, Remote) · Turing Intelligence, Prague
-      │  Designing a production DES simulation platform: TS/Node.js backend,
-      │  20+ REST endpoints with JWT/RBAC, React dashboard w/ live WebSocket KPIs.
+      │  Worked part-time with Turing Intelligence, contributing to software 
+      │  development tasks and supporting ongoing engineering projects.
       │
 2024 ─┴─ Web Development Intern · eAccounting360, Islamabad
          React.js frontend + MERN integration · MySQL/Express backend work.
 ```
 
-### 🎓 Education
+###  Education
 
 **BS Software Engineering** — FAST-NUCES Islamabad *(2022 – 2026, graduating June 2026)*
 Coursework: Data Structures & Algorithms · Software Architecture · Machine Learning · AI ·
@@ -210,7 +204,7 @@ Distributed Systems · Database Systems · Operating Systems
 
 ---
 
-### 🏆 Certifications & Achievements
+###  Certifications & Achievements
 
 <div align="center">
 
@@ -229,7 +223,7 @@ Distributed Systems · Database Systems · Operating Systems
 
 ---
 
-### 📊 GitHub Analytics
+###  GitHub Analytics
 
 <div align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=Ahtisham992&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" height="165"/>
@@ -244,7 +238,7 @@ Distributed Systems · Database Systems · Operating Systems
 
 <div align="center">
 
-### 🤝 Let's Connect
+###  Let's Connect
 
 Actively seeking full-time Software Engineering roles — full-stack, mobile, or AI-focused.
 Available from **June 2026** (or earlier by arrangement).

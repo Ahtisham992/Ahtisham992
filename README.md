@@ -115,7 +115,7 @@ Native mobile app with personalized feeds.
 <td width="50%" valign="top">
 
 **⚙️ DES Simulation Engine**
-*Production system, 2026*
+*simulation platform, 2026*
 
 Discrete-event simulation platform (M/G/c queue model) with a
 real-time KPI pipeline over WebSockets, AI-driven bottleneck

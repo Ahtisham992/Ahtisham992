@@ -102,7 +102,7 @@ shipping things that actually work in production.
 <tr>
 <td width="50%" valign="top">
 
-** [Prismora AI](https://github.com/Ahtisham992) — Smart Podcast Summarization**
+**[Prismora AI](https://github.com/Ahtisham992) — Smart Podcast Summarization**
 *FYP · Grade A*
 
 Whisper-powered speech-to-text → BERT abstractive summarization →
@@ -114,7 +114,7 @@ Native mobile app with personalized feeds.
 </td>
 <td width="50%" valign="top">
 
-**⚙️ DES Simulation Engine**
+**DES Simulation Engine**
 *simulation platform, 2026*
 
 Discrete-event simulation platform (M/G/c queue model) with a
@@ -128,7 +128,7 @@ detection, and full Docker/Kubernetes deployment.
 <tr>
 <td width="50%" valign="top">
 
-**💻 [DevFlow AI](https://dev-flow-ai-five.vercel.app) — Unified Developer Workspace**
+**[DevFlow AI](https://dev-flow-ai-five.vercel.app) — Unified Developer Workspace**
 
 Monorepo across Web + Mobile with a local-LLM (Ollama) RAG pipeline
 using `pgvector` for semantic code search — 100% private, zero cloud
@@ -139,7 +139,7 @@ inference cost.
 </td>
 <td width="50%" valign="top">
 
-**🏢 [SalesCare](https://salescare.netlify.app/) — Enterprise Service Center ERP**
+**[SalesCare](https://salescare.netlify.app/) — Enterprise Service Center ERP**
 
 25+ database tables, 50+ REST endpoints, RBAC across four roles,
 automated PDF invoicing, and multi-level purchase-order approvals.
@@ -151,7 +151,7 @@ automated PDF invoicing, and multi-level purchase-order approvals.
 <tr>
 <td width="50%" valign="top">
 
-**🛒 [GadgetPro](https://thegadgetpro.netlify.app/) — Premium MERN Ecommerce**
+**[GadgetPro](https://thegadgetpro.netlify.app/) — Premium MERN Ecommerce**
 
 Apple-inspired storefront with wishlist, coupon engine, real-time
 order tracking, and an admin analytics dashboard built on Chart.js.
@@ -161,7 +161,7 @@ order tracking, and an admin analytics dashboard built on Chart.js.
 </td>
 <td width="50%" valign="top">
 
-**🎓 [SlideMind AI](https://slidemind-ui-703383698921.us-central1.run.app) — Lecture-to-Learning System**
+**[SlideMind AI](https://slidemind-ui-703383698921.us-central1.run.app) — Lecture-to-Learning System**
 
 Turns lecture PDFs/PPTX into summaries, AI tutoring chat, and adaptive
 quizzes — with a caching layer tuned for **80k+ calls per $1**.

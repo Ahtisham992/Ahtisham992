@@ -188,6 +188,9 @@ quizzes — with a caching layer tuned for **80k+ calls per $1**.
 ###  Experience
 
 ```
+2026 ─┬─ Software Engineer · Global Financial Media | Mubashir Info Group
+      │  Work full-time, Contributing ongoing engineering projects.
+      │
 2026 ─┬─ Software Engineer (Part-time, Remote) · Turing Intelligence, Prague
       │  Worked part-time with Turing Intelligence, contributing to software 
       │  development tasks and supporting ongoing engineering projects.
